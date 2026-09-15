@@ -1,5 +1,5 @@
 # Laboration 2 - Webbplats
-
+Uppdaterad för komplettering.
 ## Om projektet
 Den här webbplatsen handlar om hundar, träning och rehabilitering. Den byggdes ursprungligen i Moment 1 och har nu uppdaterats och versionshanterats.
 
